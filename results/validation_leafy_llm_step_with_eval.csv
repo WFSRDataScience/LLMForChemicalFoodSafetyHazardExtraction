@@ -1,0 +1,23 @@
+chems,chem_returned_in_resp,dois,eval
+CHEBI:172406,polyfluoroalkyl substances,10.1016/j.envres.2018.10.023,TRUE
+CHEBI:23012,carbon disulphide,10.1080/19393210.2017.1280540,TRUE
+CHEBI:27563,arsenic,10.1007/s10661-022-10210-9,TRUE
+CHEBI:27889,lead|lead|lead|lead,10.1016/j.envpol.2011.11.040|10.1007/s10661-022-10210-9|10.1111/j.1539-6924.2005.00683.x|10.19813/j.cnki.weishengyanjiu.2021.05.021,TRUE
+CHEBI:28073,chromium|chromium|chromium,10.1016/j.envpol.2011.11.040|10.1007/s10661-022-10210-9|10.3390/toxics11010027,TRUE
+CHEBI:28628,cadmium|cadmium|cadmium|cadmium|cadmium|cadmium,10.1039/c6fo01580h|10.1016/j.chemosphere.2017.05.013|10.1007/s10661-022-10210-9|10.1016/j.scitotenv.2023.162171|10.1080/19440049.2021.1921282|10.3390/ijerph19159572,TRUE
+CHEBI:28984,aluminium,10.1007/s10653-020-00534-1,TRUE
+CHEBI:33216,bisphenol a,10.1016/j.scitotenv.2015.01.053,TRUE
+CHEBI:33848,polycyclic aromatic hydrocarbons,10.1016/j.scitotenv.2004.08.003,TRUE
+CHEBI:34938,propoxur,10.1016/j.foodchem.2022.132516,TRUE
+CHEBI:35549,perfluorooctanoic acid,10.1016/j.envres.2018.10.023,TRUE
+CHEBI:38721,methamidophos|methamidophos,10.1016/j.foodchem.2022.132516|10.1080/19393210.2017.1280540,TRUE
+CHEBI:38735,oxydemeton-methyl,10.1016/j.foodchem.2022.132516,TRUE
+CHEBI:38963,triazophos,10.1016/j.foodchem.2022.132516,TRUE
+CHEBI:4042,cypermethrin,10.1080/19393210.2017.1280540,TRUE
+CHEBI:40909,azoxystrobin,10.1080/19393210.2017.1280540,TRUE
+CHEBI:45979,thiabendazole,10.1016/j.foodchem.2022.132516,TRUE
+CHEBI:51081,nitrates,10.1002/bmc.4134,TRUE
+CHEBI:53156,pcbs,10.1016/j.envpol.2008.03.020,TRUE
+CHEBI:6651,malathion,10.1016/j.foodchem.2022.132516,TRUE
+CHEBI:81734,phenmedipham,10.1016/j.foodchem.2022.132516,TRUE
+CHEBI:8450,procymidone,10.1016/j.jfca.2016.12.025,TRUE

@@ -1,0 +1,104 @@
+chems,chem_returned_in_resp,dois,eval
+CHEBI:134046,pcdfs,10.1016/s0045-6535(01)00151-5,TRUE
+CHEBI:134063,hexabromocyclododecanes|hbcd|hexabromocyclododecane|1,2,5,6,9,10-hexabromocyclododecane|hbcd,10.1016/j.marpolbul.2021.112812|10.1016/j.jhazmat.2015.06.023|10.1016/j.jhazmat.2015.06.023|10.1016/j.envpol.2016.02.026|10.1002/mnfr.200700207,TRUE
+CHEBI:135000,nifurpirinol,10.1016/j.jfca.2020.103540,TRUE
+CHEBI:135136,nifuroxazide,10.1016/j.jfca.2020.103540,TRUE
+CHEBI:138036,bde 28,10.1002/mnfr.200700207,TRUE
+CHEBI:138065,bde 100,10.1002/mnfr.200700207,TRUE
+CHEBI:138236,oridonin,10.3390/md19020063,FALSE
+CHEBI:138845,brevetoxins|brevetoxins|brevetoxins|brevetoxins|brevetoxins|brevetoxins|brevetoxins,10.3390/toxins10080324|10.3390/md13031224|10.3390/md13031224|10.3390/md20080021|10.1021/tx1002854|10.1073/pnas.1104247108|10.14252/foodsafetyfscj.2017021,TRUE
+CHEBI:138858,azaspiracids|azaspiracid|azaspiracids|azaspiracids|azaspiracids|azaspiracids,10.3390/toxins10080324|10.3390/md13074281|10.1016/j.envpol.2019.02.050|10.1093/jaoacint/qsaa009|10.1093/jaoacint/qsaa009|10.1007/s00216-011-4772-2,TRUE
+CHEBI:138870,gtx5,10.19813/j.cnki.weishengyanjiu.2021.02.022,TRUE
+CHEBI:140488,aptamers,10.1016/j.jhazmat.2021.126690,FALSE
+CHEBI:144400,dtx1|dinophysistoxin-1|dinophysistoxin-1,10.5740/jaoacint.sgeuchida|10.1016/j.envpol.2019.02.050|10.1016/j.scitotenv.2020.140593,TRUE
+CHEBI:144404,gymnodimines|gymnodimine|gymnodimine|gymnodimine|gymnodimine|gymnodimine,10.3390/ijerph19084921|10.1016/j.etap.2005.02.008|10.3390/md13074281|10.1007/s00216-011-4772-2|10.1016/j.aca.2009.10.027|10.1016/j.ecoenv.2021.112446,TRUE
+CHEBI:145152,azaspiracid-1,10.1007/s00216-011-4772-2,TRUE
+CHEBI:145155,azaspiracid-2,10.1007/s00216-011-4772-2,TRUE
+CHEBI:145156,azaspiracid-3,10.1007/s00216-011-4772-2,TRUE
+CHEBI:145981,dinophysistoxins|dinophysistoxin-2|dinophysistoxin-2|dinophysistoxins|dinophysistoxins|dinophysistoxin-2,10.1016/j.talanta.2012.10.049|10.1016/j.fct.2017.02.023|10.1016/j.toxicon.2007.07.003|10.3390/toxins12080493|10.1007/s00216-011-4772-2|10.1093/toxsci/kfh139,TRUE
+CHEBI:146207,palytoxins|palytoxins|palytoxin,10.3390/ijerph19084921|10.3390/toxins10080324|10.1016/j.toxicon.2012.05.024,TRUE
+CHEBI:15760,tyramine,10.1080/19440049.2011.600728,TRUE
+CHEBI:16130,dichlorodiphenyltrichloroethane,10.1016/j.chemosphere.2005.09.029,TRUE
+CHEBI:16170,mercury|mercury|mercury|mercury|mercury|mercury|mercury|mercury|mercury|mercury|mercury|mercury|mercury|mercury|mercury|mercury|mercury|mercury|mercury|mercury|mercury|mercury|mercury,10.1093/jurban/jtg036|10.1016/j.envpol.2016.07.067|10.1007/s10653-015-9677-0|10.1007/s10653-015-9677-0|10.1016/j.foodchem.2015.07.081|10.1080/19393210.2018.1505781|10.4315/0362-028x-40.10.712|10.1111/1750-3841.12150|10.1371/journal.pone.0074695|10.1007/s11356-020-08685-5|10.1016/j.envint.2013.05.005|10.3402/fnr.v58.23287|10.1371/journal.pone.0188758|10.3390/ijerph13090877|10.3390/ijerph110706709|10.1016/j.chemosphere.2020.129019|10.1111/j.0272-4332.2004.00408.x|10.1016/j.envpol.2022.119555|10.1016/j.envpol.2022.119555|10.1080/19440049.2022.2037726|10.1016/j.clnu.2019.08.025|10.1016/j.clnu.2019.08.025|10.1016/j.scitotenv.2020.140034,TRUE
+CHEBI:16243,quercetin,10.3390/md19020063,FALSE
+CHEBI:166595,yessotoxin|yessotoxin|yessotoxin,10.3892/mmr.2011.606|10.1016/j.chemosphere.2019.125352|10.1016/j.envpol.2019.02.050,TRUE
+CHEBI:16731,cinnamaldehyde,10.3390/md19020063,FALSE
+CHEBI:167561,neostx,10.1016/j.talanta.2022.123267,TRUE
+CHEBI:167564,psp toxins|saxitoxins|saxitoxins|psp toxins,10.1016/s0963-9969(02)00066-2|10.1002/bmc.3954|10.3390/toxins7041206|10.1016/j.toxicon.2010.04.014,TRUE
+CHEBI:17029,chitin,10.1016/j.aquaculture.2011.03.039,FALSE
+CHEBI:17148,putrescine,10.1080/19440049.2011.600728,TRUE
+CHEBI:172368,brominated flame retardants,10.1016/j.fct.2017.02.004,TRUE
+CHEBI:172397,perfluoroalkyl substances,10.1016/j.fct.2017.02.004,TRUE
+CHEBI:172406,pfas,10.1016/j.envres.2020.109932,TRUE
+CHEBI:172596,nifursol,10.1016/j.jfca.2020.103540,TRUE
+CHEBI:17698,chloramphenicol,10.1080/19440049.2021.1898680,TRUE
+CHEBI:18127,cadaverine,10.1080/19440049.2011.600728,TRUE
+CHEBI:18295,histamine|histamine,10.3390/md16060188|10.1080/19440049.2011.600728,TRUE
+CHEBI:22315,alkaloids,10.3390/toxins9070213,FALSE
+CHEBI:22720,benzodiazepines,10.1016/j.chemosphere.2019.02.041,TRUE
+CHEBI:23825,dioxins|dioxins|dioxins|dioxins,10.1093/jurban/jtg036|10.1080/02652030802654479|10.1080/02652030802654479|10.1080/02652030802654479,TRUE
+CHEBI:24536,hexachlorocyclohexanes,10.1007/s11356-017-8659-4,TRUE
+CHEBI:25614,nylon,10.1016/j.marpolbul.2020.111163,TRUE
+CHEBI:27563,arsenic|arsenic|arsenic|arsenic|arsenic,10.1080/19393210.2018.1505781|10.1007/s11356-020-08685-5|10.1016/j.envint.2013.05.005|10.1007/s11356-021-14230-9|10.1080/19440049.2022.2037726,TRUE
+CHEBI:27568,selenium|selenium|selenium,10.1371/journal.pone.0074695|10.1016/j.envpol.2022.119555|10.1016/j.scitotenv.2020.140034,FALSE
+CHEBI:27889,lead|lead|lead|lead,10.1080/19393210.2018.1505781|10.1007/s11356-020-08685-5|10.1016/j.envint.2013.05.005|10.1080/19440049.2022.2037726,TRUE
+CHEBI:28073,chromium|chromium,10.1007/s11356-020-08685-5|10.1080/19440049.2022.2037726,TRUE
+CHEBI:28112,nickel,10.1080/19440049.2022.2037726,TRUE
+CHEBI:28119,dioxin,10.1006/enrs.2002.4391,TRUE
+CHEBI:28411,allicin,10.3390/md19020063,FALSE
+CHEBI:28628,cadmium|cadmium|cadmium|cadmium|cadmium|cadmium,10.1080/19440049.2018.1434319|10.5487/tr.2016.32.1.065|10.1080/19393210.2018.1505781|10.1007/s11356-020-08685-5|10.1016/j.envint.2013.05.005|10.1080/19440049.2022.2037726,TRUE
+CHEBI:28851,phenanthrene,10.1007/s10646-011-0800-4,TRUE
+CHEBI:30785,methylmercury|methylmercury|methylmercury|methylmercury|methylmercury|methylmercury|methylmercury|methylmercury|methylmercury|methylmercury|methylmercury|methylmercury,10.1191/0748233702th138oa|10.1007/s00217-008-0949-0|10.1016/j.fct.2017.02.004|10.1016/j.envres.2004.07.001|10.1289/ehp.11211|10.1289/ehp.9377|10.1289/ehp.9377|10.1289/ehp.9377|10.1016/j.forsciint.2015.12.021|10.1007/s12011-021-02968-9|10.3390/ijerph13090877|10.1016/j.scitotenv.2020.140034,TRUE
+CHEBI:33083,fluoranthene,10.1007/s10646-011-0800-4,TRUE
+CHEBI:33848,polycyclic aromatic hydrocarbons|pahs|polycyclic aromatic hydrocarbons|pahs,10.1016/j.fct.2017.02.004|10.1289/ehp.6847|10.1016/j.chemosphere.2011.06.051|10.1007/s11356-022-19542-y,TRUE
+CHEBI:34317,pcb 126,10.4315/0362-028x-66.3.479,TRUE
+CHEBI:34565,benzo[b]fluoranthene|benzo[b]fluoranthene,10.1007/s10646-011-0800-4|10.1007/s10646-011-0800-4,TRUE
+CHEBI:34569,benzo[k]fluoranthene,10.1007/s10646-011-0800-4,TRUE
+CHEBI:34631,chlorpyrifos,10.1016/j.chemosphere.2005.04.112,TRUE
+CHEBI:34675,deha,10.1007/s00216-021-03579-y,TRUE
+CHEBI:34696,dieldrin,10.1016/j.chemosphere.2005.04.112,TRUE
+CHEBI:34727,domoic acid|domoic acid|domoic acid|domoic acid|domoic acid|domoic acid|domoic acid,10.3390/toxins14120862|10.3390/md16060188|10.1016/j.fct.2019.04.041|10.3390/toxins7041206|10.1016/j.ntt.2019.01.003|10.1016/j.hal.2019.101623|10.1097/00063110-200112000-00009,TRUE
+CHEBI:34735,eddp,10.1016/j.chemosphere.2019.02.041,TRUE
+CHEBI:34761,fenthion,10.1016/j.chemosphere.2005.04.112,TRUE
+CHEBI:34970,saxitoxin|saxitoxin|saxitoxin|saxitoxin|saxitoxin|saxitoxin|saxitoxin|saxitoxin|saxitoxin|saxitoxin|saxitoxin|saxitoxin,10.1016/j.bios.2020.112480|10.1016/0041-0101(95)00081-v|10.1016/j.foodres.2018.03.061|10.1016/j.foodres.2018.03.061|10.1016/j.bios.2022.114837|10.3390/md16060188|10.3390/md16060188|10.1016/j.chemosphere.2020.128063|10.1002/tox.20109|10.1080/15287394.2011.534426|10.1080/02652030410001662057|10.1016/j.talanta.2022.123267,TRUE
+CHEBI:36682,pcdds,10.1016/s0045-6535(01)00151-5,TRUE
+CHEBI:37163,glucan,10.1016/j.aquaculture.2011.03.039,FALSE
+CHEBI:3723,citalopram,10.1016/j.chemosphere.2019.02.041,TRUE
+CHEBI:37340,polonium-210,10.1016/j.jenvrad.2014.08.016,TRUE
+CHEBI:39258,diphenyl ethers,10.1016/j.scitotenv.2018.02.301,FALSE
+CHEBI:39421,pfos,10.1016/j.envres.2020.109932,TRUE
+CHEBI:41001,benzoylecgonine,10.1016/j.chemosphere.2019.02.041,TRUE
+CHEBI:4388,deltamethrin|deltamethrin,10.3389/fnut.2021.726620|10.3389/fnut.2021.726620,TRUE
+CHEBI:44368,nitrofurazone,10.1016/j.jfca.2020.103540,TRUE
+CHEBI:44658,okadaic acid|okadaic acid|okadaic acid|okadaic acid|okadaic acid|okadaic acid|okadaic acid|okadaic acid|okadaic acid|okadaic acid|okadaic acid|okadaic acid|okadaic acid,10.5740/jaoacint.sgeuchida|10.1016/j.heliyon.2022.e10444|10.1021/jf010112p|10.1021/jf010112p|10.1021/jf010112p|10.1016/j.talanta.2012.10.049|10.1016/j.toxicon.2012.06.007|10.3390/md13074281|10.1016/j.envpol.2019.02.050|10.1016/j.toxicon.2007.07.003|10.3390/toxins12080493|10.1016/j.scitotenv.2020.140593|10.1016/j.ecoenv.2021.112446,TRUE
+CHEBI:48041,microcystin|microcystin|microcystin|microcystins,10.1016/j.ecoenv.2010.07.043|10.1021/acs.est.6b02760|10.1021/es403491k|10.3390/toxins15010027,TRUE
+CHEBI:48765,dimethylarsinic acid,10.1007/s11356-021-14230-9,TRUE
+CHEBI:49706,perchlorate,10.1016/j.marpolbul.2021.112672,TRUE
+CHEBI:49860,pectenotoxin|pectenotoxin-2|pectenotoxins|pectenotoxin-2|pectenotoxin-2,10.3390/md13074281|10.1016/j.envpol.2019.02.050|10.1007/s00216-011-4772-2|10.1007/s00216-011-4772-2|10.1016/j.ecoenv.2021.112446,TRUE
+CHEBI:51687,chrysene,10.1007/s10646-011-0800-4,TRUE
+CHEBI:5195,furazolidone,10.1016/j.jfca.2020.103540,TRUE
+CHEBI:53156,pcbs|pcbs|pcbs|pcbs|pcbs|pcbs|pcbs|polychlorinated biphenyls|pcbs|pcbs|pcbs,10.1093/jurban/jtg036|10.1016/j.chemosphere.2005.09.029|10.1080/02652030802654479|10.1080/02652030802654479|10.1080/02652030802654479|10.4315/0362-028x-69.5.1144|10.1016/j.tox.2004.01.023|10.1016/s0045-6535(01)00151-5|10.1289/ehp.94102562|10.1289/ehp.6847|10.1007/s11356-017-8659-4,TRUE
+CHEBI:53227,polyethylene,10.1016/j.scitotenv.2022.160572,TRUE
+CHEBI:53550,polypropylene,10.1016/j.scitotenv.2022.160572,TRUE
+CHEBI:5692,hexachlorobenzene,10.1016/j.chemosphere.2005.09.029,TRUE
+CHEBI:5855,ibuprofen,10.1016/j.scitotenv.2018.12.222,TRUE
+CHEBI:61250,brevetoxin a,10.1038/32623,TRUE
+CHEBI:61275,ciguatoxins|ciguatoxins|ciguatoxins,10.3390/toxins10080324|10.3390/md16060188|10.3390/md16060188,TRUE
+CHEBI:6128,ketoprofen,10.1016/j.scitotenv.2018.12.222,TRUE
+CHEBI:6432,levamisole,10.1016/j.aquaculture.2011.03.039,FALSE
+CHEBI:6539,lorazepam,10.1016/j.chemosphere.2019.02.041,TRUE
+CHEBI:71415,nitrofurantoin,10.1016/j.jfca.2020.103540,TRUE
+CHEBI:74803,furaltadone,10.1016/j.jfca.2020.103540,TRUE
+CHEBI:80043,nodularins,10.3390/toxins15010027,TRUE
+CHEBI:80768,gonyautoxins|gonyautoxins|gonyautoxins,10.1002/bmc.3954|10.3390/md16060188|10.3390/md16060188,TRUE
+CHEBI:80769,gonyautoxin-2,10.1016/j.bios.2022.114837,TRUE
+CHEBI:81534,bde 153,10.1002/mnfr.200700207,TRUE
+CHEBI:81535,bde 154,10.1002/mnfr.200700207,TRUE
+CHEBI:81537,bde 183,10.1002/mnfr.200700207,TRUE
+CHEBI:81582,bde 99,10.1002/mnfr.200700207,TRUE
+CHEBI:81584,bde 47,10.1002/mnfr.200700207,TRUE
+CHEBI:82291,benzo[j]fluoranthene,10.1007/s10646-011-0800-4,TRUE
+CHEBI:82392,arsenobetaine,10.1007/s11356-021-14230-9,TRUE
+CHEBI:82436,bde 209,10.1002/mnfr.200700207,TRUE
+CHEBI:9506,tetrodotoxin|tetrodotoxins|tetrodotoxins,10.3390/md13127070|10.3390/toxins10080324|10.1016/j.fct.2019.04.041,TRUE
+CHEBI:9943,venlafaxine,10.1016/j.chemosphere.2019.02.041,TRUE
